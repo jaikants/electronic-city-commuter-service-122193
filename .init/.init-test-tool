@@ -1,0 +1,4 @@
+{
+    "command": "mongosh --host localhost --port 5000 --eval \"db.adminCommand(ping)\"",
+    "working_directory": "/home/kavia/workspace/code-generation/electronic-city-commuter-service-122193/transport_service_database"
+}
